@@ -1,0 +1,10 @@
+C:\Users\UGV_usr\Desktop\Behaviors\behaviorMay13\NGCP.UGV.Core\NGCP.UGV.Core\bin\x64\Debug\NGCP.UGV.Core.dll
+C:\Users\UGV_usr\Desktop\Behaviors\behaviorMay13\NGCP.UGV.Core\NGCP.UGV.Core\bin\x64\Debug\NGCP.UGV.Core.pdb
+C:\Users\UGV_usr\Desktop\Behaviors\behaviorMay13\NGCP.UGV.Core\NGCP.UGV.Core\bin\x64\Debug\NGCP.dll
+C:\Users\UGV_usr\Desktop\Behaviors\behaviorMay13\NGCP.UGV.Core\NGCP.UGV.Core\bin\x64\Debug\NGCP_COM.dll
+C:\Users\UGV_usr\Desktop\Behaviors\behaviorMay13\NGCP.UGV.Core\NGCP.UGV.Core\bin\x64\Debug\NGCP.pdb
+C:\Users\UGV_usr\Desktop\Behaviors\behaviorMay13\NGCP.UGV.Core\NGCP.UGV.Core\bin\x64\Debug\NGCP.xml
+C:\Users\UGV_usr\Desktop\Behaviors\behaviorMay13\NGCP.UGV.Core\NGCP.UGV.Core\bin\x64\Debug\NGCP_COM.pdb
+C:\Users\UGV_usr\Desktop\Behaviors\behaviorMay13\NGCP.UGV.Core\NGCP.UGV.Core\obj\x64\Debug\NGCP.UGV.Core.dll
+C:\Users\UGV_usr\Desktop\Behaviors\behaviorMay13\NGCP.UGV.Core\NGCP.UGV.Core\obj\x64\Debug\NGCP.UGV.Core.pdb
+C:\Users\UGV_usr\Desktop\Behaviors\behaviorMay13\NGCP.UGV.Core\NGCP.UGV.Core\obj\x64\Debug\NGCP.UGV.Core.csprojResolveAssemblyReference.cache

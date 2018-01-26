@@ -1,0 +1,17 @@
+C:\Users\StevenSong\Documents\GitHub\NGCP_UGV_2013_2014\NGCP.UGV.Core\NGCP.UGV.Core\obj\Debug\NGCP.UGV.Core.csprojResolveAssemblyReference.cache
+C:\Users\StevenSong\Documents\GitHub\NGCP_UGV_2013_2014\NGCP.UGV.Core\NGCP.UGV.Core\bin\Debug\NGCP.UGV.Core.dll
+C:\Users\StevenSong\Documents\GitHub\NGCP_UGV_2013_2014\NGCP.UGV.Core\NGCP.UGV.Core\bin\Debug\NGCP.UGV.Core.pdb
+C:\Users\StevenSong\Documents\GitHub\NGCP_UGV_2013_2014\NGCP.UGV.Core\NGCP.UGV.Core\bin\Debug\NGCP.dll
+C:\Users\StevenSong\Documents\GitHub\NGCP_UGV_2013_2014\NGCP.UGV.Core\NGCP.UGV.Core\bin\Debug\protowrapper.dll
+C:\Users\StevenSong\Documents\GitHub\NGCP_UGV_2013_2014\NGCP.UGV.Core\NGCP.UGV.Core\bin\Debug\NGCP.pdb
+C:\Users\StevenSong\Documents\GitHub\NGCP_UGV_2013_2014\NGCP.UGV.Core\NGCP.UGV.Core\obj\Debug\NGCP.UGV.Core.dll
+C:\Users\StevenSong\Documents\GitHub\NGCP_UGV_2013_2014\NGCP.UGV.Core\NGCP.UGV.Core\obj\Debug\NGCP.UGV.Core.pdb
+C:\Users\UGV_usr\Desktop\Behaviors\behaviorMay7\NGCP.UGV.Core\NGCP.UGV.Core\bin\Debug\NGCP.UGV.Core.dll
+C:\Users\UGV_usr\Desktop\Behaviors\behaviorMay7\NGCP.UGV.Core\NGCP.UGV.Core\bin\Debug\NGCP.UGV.Core.pdb
+C:\Users\UGV_usr\Desktop\Behaviors\behaviorMay7\NGCP.UGV.Core\NGCP.UGV.Core\bin\Debug\NGCP.dll
+C:\Users\UGV_usr\Desktop\Behaviors\behaviorMay7\NGCP.UGV.Core\NGCP.UGV.Core\bin\Debug\NGCP_COM.dll
+C:\Users\UGV_usr\Desktop\Behaviors\behaviorMay7\NGCP.UGV.Core\NGCP.UGV.Core\bin\Debug\NGCP.pdb
+C:\Users\UGV_usr\Desktop\Behaviors\behaviorMay7\NGCP.UGV.Core\NGCP.UGV.Core\bin\Debug\NGCP.xml
+C:\Users\UGV_usr\Desktop\Behaviors\behaviorMay7\NGCP.UGV.Core\NGCP.UGV.Core\bin\Debug\NGCP_COM.pdb
+C:\Users\UGV_usr\Desktop\Behaviors\behaviorMay7\NGCP.UGV.Core\NGCP.UGV.Core\obj\Debug\NGCP.UGV.Core.dll
+C:\Users\UGV_usr\Desktop\Behaviors\behaviorMay7\NGCP.UGV.Core\NGCP.UGV.Core\obj\Debug\NGCP.UGV.Core.pdb

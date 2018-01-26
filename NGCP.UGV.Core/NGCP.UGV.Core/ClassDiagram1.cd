@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NGCP.UGV.Core.UGV">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="NGCP.UGV.Core.UGV.DriveState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UGV.Behavior.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="NGCP.UGV.Core.UGV.DriveMode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UGV.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Class Name="NGCP.UGV.Core.UGV.UGVSetting" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UGV.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="NGCP.UGV.Core.UGV.SerialPackage" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UGV.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Struct Name="NGCP.UGV.Core.UGV.BatteryStatus" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UGV.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="NGCP.UGV.Core.UGV.commAuth" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UGV.Protonet.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>xEkgahDhJObgnuHhgLrbureRYcWq0CKB66/Spe9SvCw=</HashCode>
+      <FileName>UGV.Behavior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
